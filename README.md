@@ -40,6 +40,8 @@ Moreover, studying the behavior of the error between the average displacement an
 
 4. It's important to note that the convergence rate may depend on other factors such as the step sizes, time step, and the characteristics of the diffusion process being simulated. However, in general, increasing the number of particles improves the accuracy of the simulation and reduces the error.
 
+![2DRandomWalkChangingN](https://github.com/alessandroAbati/2DRandomWalkSimulation/assets/136715422/0ecf1414-8dab-47d6-be38-4435957df799)
+
 To study the behavior of the error in more detail, you can perform experiments by varying the number of particles (N) and observe how the error changes. By plotting the error against N, you can analyze the trend and determine the optimal number of particles required to achieve a desired level of accuracy in the simulation.
 
 **Note:** This code was written for educational purposes to demonstrate the concept of 2D diffusion simulation and its comparison with the analytical solution. It may not be optimized for large-scale simulations or production environments.
