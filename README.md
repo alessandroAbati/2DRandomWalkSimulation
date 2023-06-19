@@ -47,3 +47,6 @@ Moreover, studying the behavior of the error between the average displacement an
 To study the behavior of the error in more detail, you can perform experiments by varying the number of particles (N) and observe how the error changes. By plotting the error against N, you can analyze the trend and determine the optimal number of particles required to achieve a desired level of accuracy in the simulation.
 
 **Note:** This code was written for educational purposes to demonstrate the concept of 2D diffusion simulation and its comparison with the analytical solution. It may not be optimized for large-scale simulations or production environments.
+
+### References
+This project is based on material provided in the Coursera course *Simulation and modeling of natural processes* (https://www.coursera.org/learn/modeling-simulation-natural-processes).
