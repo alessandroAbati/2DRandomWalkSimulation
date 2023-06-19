@@ -2,6 +2,8 @@
 
 This repository contains a Python code for simulating 2D diffusion through a random walk. The code compares the simulation results with the analytical solution of the diffusion equation.
 
+![DiffusionSimulation](https://github.com/alessandroAbati/2DRandomWalkSimulation/assets/136715422/0506bd82-6c41-49a4-aa23-7ef5cc6cdf93)
+
 ## Random Walk
 In this simulation, particles undergo a random walk in a 2D space. The position of each particle is updated at each time step based on a random direction chosen from the set of north, south, east, west, and stay. The number of particles, step sizes, time step, and stopping time can be configured in the code.
 
