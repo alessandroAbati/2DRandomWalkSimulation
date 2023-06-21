@@ -2,7 +2,7 @@
 
 This repository contains a Python code for simulating 2D diffusion through a random walk. The code compares the simulation results with the analytical solution of the diffusion equation.
 
-![DiffusionSimulation](https://github.com/alessandroAbati/2DRandomWalkSimulation/assets/136715422/0506bd82-6c41-49a4-aa23-7ef5cc6cdf93)
+![DiffusionSimulation](https://github.com/alessandroAbati/2DRandomWalkSimulation/assets/136715422/c10b3625-bb6b-4831-a2dc-75eb860b09bb)
 
 ## Random Walk
 In this simulation, particles undergo a random walk in a 2D space. The position of each particle is updated at each time step based on a random direction chosen from the set of north, south, east, west, and stay. The number of particles, step sizes, time step, and stopping time can be configured in the code.
@@ -42,7 +42,7 @@ Moreover, studying the behavior of the error between the average displacement an
 
 4. It's important to note that the convergence rate may depend on other factors such as the step sizes, time step, and the characteristics of the diffusion process being simulated. However, in general, increasing the number of particles improves the accuracy of the simulation and reduces the error.
 
-![2DRandomWalkChangingN](https://github.com/alessandroAbati/2DRandomWalkSimulation/assets/136715422/c92a2627-9e2f-48a6-9665-39de6a03e478)
+![2DRandomWalkChangingN](https://github.com/alessandroAbati/2DRandomWalkSimulation/assets/136715422/ee287500-051e-4b83-9ce6-9876f95084a4)
 
 To study the behavior of the error in more detail, you can perform experiments by varying the number of particles (N) and observe how the error changes. By plotting the error against N, you can analyze the trend and determine the optimal number of particles required to achieve a desired level of accuracy in the simulation.
 
